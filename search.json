@@ -1,0 +1,37 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Alex Hartland",
+    "section": "",
+    "text": "Political Scientist\nI am a political scientist working on [your research areas]. I am currently [your position and institution]."
+  },
+  {
+    "objectID": "index.html#research",
+    "href": "index.html#research",
+    "title": "Alex Hartland",
+    "section": "Research",
+    "text": "Research\nMy research focuses on [your main research interests]."
+  },
+  {
+    "objectID": "index.html#selected-publications",
+    "href": "index.html#selected-publications",
+    "title": "Alex Hartland",
+    "section": "Selected publications",
+    "text": "Selected publications\n\nAuthor(s). Year. “Paper title.” Journal. Link.\nAuthor(s). Year. “Paper title.” Journal. Link."
+  },
+  {
+    "objectID": "index.html#contact",
+    "href": "index.html#contact",
+    "title": "Alex Hartland",
+    "section": "Contact",
+    "text": "Contact\nEmail: your academic email\nGoogle Scholar · ORCID —"
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "About this site\n\n1 + 1\n\n[1] 2"
+  }
+]
