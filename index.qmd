@@ -1,0 +1,25 @@
+---
+title: "Alex Hartland"
+---
+
+Political Scientist
+
+I am a political scientist working on [your research areas].
+I am currently [your position and institution].
+
+## Research
+
+My research focuses on [your main research interests].
+
+## Selected publications
+
+- Author(s). Year. "Paper title." *Journal*. [Link](URL).
+- Author(s). Year. "Paper title." *Journal*. [Link](URL).
+
+## Contact
+
+Email: [your academic email](mailto:your-email@example.com)
+
+[Google Scholar](YOUR-SCHOLAR-URL) ·
+[ORCID](YOUR-ORCID-URL)
+---

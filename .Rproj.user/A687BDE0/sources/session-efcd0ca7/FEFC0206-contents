@@ -1,0 +1,24 @@
+project:
+  type: website
+
+website:
+  title: "Alex Hartland"
+  description: "Academic website of Alex Hartland, political scientist."
+  site-url: "https://alexhartland.com"
+  navbar:
+    left:
+      - href: index.qmd
+        text: Home
+      - href: research.qmd
+        text: Research
+      - href: teaching.qmd
+        text: Teaching
+      - href: cv.qmd
+        text: CV
+
+format:
+  html:
+    theme: cosmo
+    css: styles.css
+    toc: false
+
