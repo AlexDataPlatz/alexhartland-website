@@ -1,4 +1,4 @@
-/* css styles */
+
 #quarto-content {
   max-width: 850px;
   margin-left: auto;
@@ -19,6 +19,7 @@
   border-radius: 5px;
   text-decoration: none;
   color: inherit;
+  background-color: transparent;
 }
 
 .social-links a:hover {
